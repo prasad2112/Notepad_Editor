@@ -9,6 +9,8 @@ public class Notepad extends JFrame implements ActionListener, WindowListener {
 	
 	JTextArea jta=new JTextArea();
 	File fnameContainer;
+	File anyFile;
+	Container rohan;
 	
 	public Notepad(){
 
